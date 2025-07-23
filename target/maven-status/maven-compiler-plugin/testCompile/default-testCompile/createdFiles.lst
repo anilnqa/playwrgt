@@ -1,7 +1,0 @@
-tests\apitests\EmployeeServiceTest.class
-tests\uitests\Test_1.class
-tests\apitests\APITest.class
-tests\uitests\Test_2.class
-tests\apitests\BaseApiTest.class
-tests\uitests\TestNGListener.class
-tests\uitests\BaseTest.class
