@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite2">
+    <test name="Test Cases with base class extended">
+        <classes>
+            <class name="tests.uitests.Test_2"/>
+        </classes>
+    </test>
+</suite>
